@@ -2,12 +2,12 @@
 
 This is a fork of [simple_markdown_editor by zahnia88](https://github.com/zahniar88/simple_markdown_editor)
 
-[![GitHub stars](https://img.shields.io/github/stars/zahniar88/simple_markdown_editor?color=green)](https://github.com/fossfreaks/simple_markdown_editor)
+[![GitHub stars](https://img.shields.io/github/stars/fossfreaks/simple_markdown_editor?color=green)](https://github.com/fossfreaks/simple_markdown_editor)
 [![undo](https://img.shields.io/pub/v/simple_markdown_editor_plus.svg?color=teal)](https://pub.dev/packages/simple_markdown_editor_plus)
 ![GitHub](https://img.shields.io/github/license/fossfreaks/simple_markdown_editor?color=red)
 
 
-Simple markdown editor library For flutter. 
+Simple markdown editor library For flutter.
 For demo video, you can see it at this url [Demo](https://youtu.be/aYBeXXDoNPo)
 
 ## What's new (03/12/2022)
@@ -29,7 +29,7 @@ Add dependencies to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-    simple_markdown_editor_plus: ^0.2.6
+    simple_markdown_editor_plus: ^0.2.7
 ```
 
 Run `flutter pub get` to install.
