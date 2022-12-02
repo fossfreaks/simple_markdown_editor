@@ -1,3 +1,5 @@
+## 0.2.7
+* Update Dependencies to fix `markdown` and `flutter_markdown` conflict.
 ## 0.2.6
 * Updated meta, optional update
 ## 0.2.5

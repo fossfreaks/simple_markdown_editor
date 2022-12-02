@@ -10,9 +10,9 @@ This is a fork of [simple_markdown_editor by zahnia88](https://github.com/zahnia
 Simple markdown editor library For flutter. 
 For demo video, you can see it at this url [Demo](https://youtu.be/aYBeXXDoNPo)
 
-## What's new (14/04/2022)
+## What's new (03/12/2022)
 
-* Allow use of custom background color for tool bar.
+* Update Dependencies to fix `markdown` and `flutter_markdown` conflict.
 
 
 ## Features
